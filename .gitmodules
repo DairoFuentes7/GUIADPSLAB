@@ -1,3 +1,6 @@
 [submodule "guia01/PruebaGit"]
 	path = guia01/PruebaGit
 	url = https://github.com/DairoFuentes7/PruebaGit.git
+[submodule "guia02/PruebaGit"]
+	path = guia02/PruebaGit
+	url = https://github.com/DairoFuentes7/PruebaGit.git
